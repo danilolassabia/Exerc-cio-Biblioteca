@@ -5,7 +5,7 @@ create table endereco
 	tipo_log varchar(40),
 	complemento varchar(40),
 	cidade varchar(40),
-	uf char(1),
+	uf char(2),
 	cep char(8),
 	numero varchar(10),
 	bairro varchar(60)
